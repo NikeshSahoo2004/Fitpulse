@@ -1,5 +1,7 @@
 # 💪 Fitpulse
 
+![Fitpulse](fitpulse.png)
+
 A modern, responsive fitness and gym web application built with React, Vite, and Tailwind CSS. Fitpulse helps users discover workout plans, diet plans, and achieve their fitness goals with a sleek, user-friendly interface.
 
 🌐 **Live Demo:** [https://fitpulse-nine.vercel.app](https://fitpulse-nine.vercel.app)
